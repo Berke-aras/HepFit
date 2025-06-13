@@ -1,0 +1,106 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# HepFit Sports Application - Cursor Rules
+
+# HepFit Sports Application - Cursor Rules
+
+
+## Communication Rules
+
+- All code comments must be written in Turkish
+- Variable names and function names should be in English
+
+## General Project Rules
+
+### Technology Stack
+
+- Sports and fitness application development
+- Follow Clean Architecture principles
+
+#### Performance Optimizations
+
+- Use FlatList/VirtualizedList (instead of ScrollView)
+- Optimize useMemo and useCallback hooks
+- Consider react-native-fast-image for image optimization
+- Implement lazy loading
+
+#### Responsive Design
+
+- Responsive components for different screen sizes
+- Safe area handling (react-native-safe-area-context)
+- Keyboard avoiding behavior
+
+
+### Performance Guidelines
+
+- Optimize bundle size
+- Prevent memory leaks (cleanup functions)
+- Optimize network requests (caching, retry logic)
+- Optimize image loading
+- Smooth animations (60 FPS)
+
+always make screen connections
+
+## Design System
+
+### Color Palette
+
+#### Primary Colors
+- **Primary Blue Dark**: `#001F30` - Ana koyu mavi renk
+- **Primary Blue Medium**: `#002D46` - Orta ton mavi
+- **Primary Blue Light**: `#003C5D` - Açık mavi ton
+- **Primary Blue**: `#004B73` - Standart mavi
+- **Primary Blue Bright**: `#01649A` - Parlak mavi, butonlar için
+
+
+#### Card Colors
+- **Card Background**: `#F5F5F5` - Kart arka planı
+- **Card Border**: `#E5E5E5` - Kart kenarlığı
+- **Card Shadow**: `rgba(0, 0, 0, 0.25)` - Kart gölgesi
+
+### Typography
+
+#### Font Family
+- **Primary**: `Lato` - Ana font ailesi
+- **Secondary**: `Inter` - İkincil font (sistem metinleri için)
+- **Monospace**: `Helvetica Neue` - Özel durumlar için
+
+
+## Communication Rules
+
+- All code comments must be written in Turkish
+- Variable names and function names should be in English
+
+## General Project Rules
+
+### Technology Stack
+
+- Sports and fitness application development
+- Follow Clean Architecture principles
+
+#### Performance Optimizations
+
+- Use FlatList/VirtualizedList (instead of ScrollView)
+- Optimize useMemo and useCallback hooks
+- Consider react-native-fast-image for image optimization
+- Implement lazy loading
+
+#### Responsive Design
+
+- Responsive components for different screen sizes
+- Safe area handling (react-native-safe-area-context)
+- Keyboard avoiding behavior
+
+
+### Performance Guidelines
+
+- Optimize bundle size
+- Prevent memory leaks (cleanup functions)
+- Optimize network requests (caching, retry logic)
+- Optimize image loading
+- Smooth animations (60 FPS)
+
+always make screen connections

@@ -1,0 +1,3 @@
+import SearchScreen from './src/screens/SearchScreen.js';
+import SocialFeedScreen from './src/screens/SocialFeedScreen.js';
+import FriendsScreen from './src/screens/FriendsScreen.js';
